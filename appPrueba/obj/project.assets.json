@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Juan Brito\\Documentos\\Platzi curso\\appPrueba\\appPrueba.csproj",
+      "projectUniqueName": "D:\\Users\\Juan Brito\\Documentos\\Platzi curso\\SitioPrueba\\appPrueba\\appPrueba.csproj",
       "projectName": "appPrueba",
-      "projectPath": "D:\\Users\\Juan Brito\\Documentos\\Platzi curso\\appPrueba\\appPrueba.csproj",
+      "projectPath": "D:\\Users\\Juan Brito\\Documentos\\Platzi curso\\SitioPrueba\\appPrueba\\appPrueba.csproj",
       "packagesPath": "C:\\Users\\Juan Brito\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Juan Brito\\Documentos\\Platzi curso\\appPrueba\\obj\\",
+      "outputPath": "D:\\Users\\Juan Brito\\Documentos\\Platzi curso\\SitioPrueba\\appPrueba\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
